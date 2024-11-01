@@ -4,7 +4,14 @@
 num1 = 15 ;
 num2 = 10 ;
 
-print("The addition of two numbers is",(num1+num2)) 
+print("The addition of two numbers is",(num1+num2))  
 print("The subtraction of two numbers is ",(num1-num2))
 print("The multiplication of two numbers is ",(num1*num2))
 print("The division of two numbers is ",(num1/num2))
+
+
+Output :
+# The addition of two numbers is 25
+# The subtraction of two numbers is  5
+# The multiplication of two numbers is  150
+# The division of two numbers is  1.5
